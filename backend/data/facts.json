@@ -1,0 +1,19 @@
+{
+  "full_name": "Elijah Achala",
+  "name": "Elijah Achala",
+  "current_role": "AI Engineer",
+  "location": "Accra-Ghana",
+  "email": "eachala5@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/elijah-achala/",
+  "specialties": [
+    "Plays basketball"
+  ],
+  "years_experience": 4,
+  "education": [
+    {
+      "degree": "Bsc Computer Engineering",
+      "institution": "Kwame Nkrumah University of Science and Technology",
+      "year": "2025"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Elijah Achala was a student of Kwame Nkrumah University of Science and Technology who pursued a Bachelor of Science in Computer Engineering with First Class standing, and graduate in 2025.
+
+Throughout his academic journey, he has buid a strong foundation in key areas such as data structures and algorithms, computer networking, software engineering, and database systems.
+
+Beyond the classroom, he has developed practical expertise across full-stack web development, cloud computing, and artificial intelligence.
+
+His technical skill set includes programming languages like Python, C++, C, and JavaScript, along with frontend frameworks such as React.js and Next.js, and backend technologies including Node.js, Express.js, FastAPI, and Prisma ORM.
+
+He is also experienced with both SQL and NoSQL databases like MySQL, PostgreSQL, and MongoDB, and have working knowledge of Linux operating systems and AWS cloud services, holding an Amazon Certified Cloud Practitioner certification.
+
+In the AI space, he has worked with LangChain, LangGraph, LangSmith, PyTorch, and NumPy, and has earned a RAG Systems Expert certification from ReadyTensor.
+
+His project work reflects a blend of theoretical knowledge and hands-on implementation: He developed a real-time chat application using Socket.IO and React, built a clean and responsive e-commerce user interface with Next.js, and created a RAG-based personal tutor that leverages ChromaDB, Hugging Face embeddings, and a frontier language model to help students learn from their own study materials.
+
+Additionally, he holds an ALX Software Engineering Training Certificate.
+
+On the leadership side, he has served a team lead for a portfolio website project at KNUST, where he guided a group of learners through the entire development lifecycle from concept to deployment, helping to sharpen their practical skills while delivering a professional final product.
